@@ -1,0 +1,26 @@
+{
+  "name": "modextra-cli",
+  "version": "0.1.0",
+  "description": "modextra-cli поможет быстро начать разработку нового компонента в MODX Revolution",
+  "main": "./src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srsad/modextra-cli"
+  },
+  "author": "srsad",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "modextra": "./src/cli.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "axios": "^0.18.0",
+    "fs-extra": "^7.0.1",
+    "inquirer": "^6.2.1",
+    "ora": "^3.0.0"
+  }
+}
