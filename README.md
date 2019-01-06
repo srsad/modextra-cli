@@ -2,7 +2,7 @@
 
 Install:
 
-`npm i -g`
+`npm i -g modextra-cli`
 
 Помогает быстро развернуть modExtra под ExtJS или Vue
 
