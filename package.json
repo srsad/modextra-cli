@@ -1,6 +1,6 @@
 {
   "name": "modextra-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "modextra-cli поможет быстро начать разработку нового компонента в MODX Revolution",
   "main": "./src/cli.js",
   "scripts": {
